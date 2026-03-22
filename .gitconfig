@@ -1,0 +1,7 @@
+[user]
+	email = maharshi.ec@gmail.com
+	name = maharshiec-commits
+[credential]
+	helper = store
+[init]
+	defaultBranch = main
